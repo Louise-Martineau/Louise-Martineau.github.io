@@ -1,0 +1,39 @@
+header{
+   text-align: center; 
+   padding: 20px;
+}
+
+html {
+  background-color: #feebf4;
+}
+
+
+
+body {
+  width: 700px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+}
+
+.text {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 50 px;
+}
+
+
+%.hopla{
+  background-color: #fa9eca;
+}
+
+a:link {
+  color: #f7168a;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #7a003f;
+  background-color: transparent;
+  text-decoration: none;
+}
