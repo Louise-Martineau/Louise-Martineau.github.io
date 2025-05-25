@@ -32,7 +32,6 @@ a:visited {
 /**Header NavBar**/
 
 header {
-    /*empeche de cacher le texte en dessous contrairement à fixed */
     text-align: center; 
     background-color: #353535;
     height: 60px;
@@ -42,7 +41,6 @@ header {
     box-shadow: 0px 4px 4px 0 #ff00002b;
     transition: box-shadow 1s;
     z-index: 1;
-    /*pour rester toujours en avant-plan*/
 }
 
 .shadowHeader {
@@ -90,8 +88,7 @@ header a {
     align-items: center;
     justify-content: center;
     height: 56px;
-    /*Aulieu de 60px à cause des 4px de la progressBar*/
-    width: 200px;
+    width: 220px;
     font-size: 1.5rem;
 }
 
